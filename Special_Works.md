@@ -1,76 +1,64 @@
-### 07.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-- The entire changelog is now available on Github.
+### 14.01.2023 (announcement Slinky)
+- Feel free to read the entire changelog now! 🧑‍💻
+- https://github.com/linkspreed/Slinky/blob/main/changelog.md
 
-### 07.01.2023 (announcement Analytix)
-- The launch of version 3.5.1 of **Analytix** was successful! 🥳
-- The new update is live now :)
-- https://analytix.tk 🔗
+### 14.01.2023 (announcement Slinky)
+- We're working on the **Slinky** Github Repository!
 
-### 07.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.5.1.
+### 14.01.2023 (announcement Slinky)
+- **Slinky** - the fastest way to send large files via email or link! ☁️📧
 
-### 07.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.5.1 for **Analytix**.
+### 14.01.2023 (announcement Slinky)
+- We're working on **Slinky**!
 
-### 07.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.5.1 for **Analytix**.
+### 13.01.2023 (announcement Slinky)
+- Now you can reach us via a contact form on **Slinky**!
 
-### 07.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.5.1. 😍
+### 13.01.2023 (announcement Slinky)
+- Now **Slinky** has the file preview option. 
+- View your sent files before downloading them. ☁️
+- https://user-images.githubusercontent.com/102324985/212375503-c36d8502-fe03-41c1-bf97-1278fa9c43fe.png
 
-### 07.01.2023 (announcement Analytix)
-- We're currently working on v3.5.1 for **Analytix**!
+### 13.01.2023 (announcement Slinky)
+- **Slinky** - There is very good progress on the platform!
 
-### 04.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-- The entire changelog is now available on Github.
+### 11.01.2023 (announcement Slinky)
+- If you don't want to destroy your uploads on **Slinky** manually, they'll get removed after 12 months! ☁️
 
-### 04.01.2023 (announcement Analytix)
-- The launch of version 3.5.0 of **Analytix** was successful! 🥳
-- The new update is live now :)
-- https://analytix.tk 🔗
+### 11.01.2023 (announcement Slinky)
+- All uploads on **Slinky** are encrypted via OpenSSL 🔐
 
-### 04.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.5.0.
+### 11.01.2023 (announcement Slinky)
+- Check out the brand new **Slinky** logo and icon now! 🧡
+- https://user-images.githubusercontent.com/102324985/211883356-fbdeba67-0895-48d9-8842-64b05a813367.png
+- https://user-images.githubusercontent.com/102324985/211883455-722b933f-0fd0-4e8b-bb6c-cd414d2a00dc.png
 
-### 04.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.5.0 for **Analytix**.
+### 11.01.2023 (announcement Slinky)
+- We're still working on **Slinky**.
 
-### 04.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.5.0 for **Analytix**.
+### 11.01.2023 (announcement Slinky)
+- We've changed the colour code for **Slinky**.
+- #ffa500 (Linkspreed's orange)
 
-### 04.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.5.0. 😍
+### 11.01.2023 (announcement Slinky)
+- The design issue on **Slinky** has been successfully fixed!
 
-### 04.01.2023 (announcement Analytix)
-- Soon we will release version 3.5 for **Analytix**.
+### 11.01.2023 (announcement Slinky)
+- Here are the three new backgrounds we've temporarily included on **Slinky**! 
+- The images are in 4K!
+- https://slinky.ml/assets/backgrounds/fatih-kgqu_qs3B78-unsplash.jpg
+- https://slinky.ml/assets/backgrounds/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
+- https://slinky.ml/assets/backgrounds/francesca-saraco-J6iLgznwL1c-unsplash.jpg
 
-### 18.10.2022 (announcement Analytix)
-- The entire changelog up to version 3.4.0 is now available on Github.
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+### 11.01.2023 (announcement Slinky)
+- We're changing the PHP version for **Slinky** from 7.4 to 8.0!
 
-### 18.10.2022 (announcement Analytix)
-- Version 3.4.0 has been released successfully. 😺
+### 11.01.2023 (announcement Slinky)
+- We're still working on the final modifications after the **Slinky** Relaunch!
 
-### 18.10.2022 (announcement Analytix)
-- We are starting to launch version 3.4.0 now :)
+### 11.01.2023 (announcement Slinky)
+- **Slinky** makes very good progress!
 
-### 18.10.2022 (announcement Analytix)
-- The servers and code are ready for the new update!
-
-### 18.10.2022 (announcement Analytix)
-- We will now launch and release version 3.4.0 for **Analytix**.
-
-# 18.10.2022
-  - We are working on an new update
-
-# 21.07.2022
-  - The new version 3.3.0 is publicly freely available. The changes are all in the changelog.
-
-# 21.07.2022
-  - We will release a **new version v3.3.0** soon.
-
-# 11.06.2022
-  - Today on June 11th, 2022 we connected and pushed **Analytix** to the Cloudflare infrastructure.
-     - This improves both **speed** and **safety**.
+### 10.01.2023 (announcement Slinky)
+- Today is the day!  
+- We relaunch **Slinky** as a Cloud2Share alternative!
