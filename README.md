@@ -1,4 +1,4 @@
-# <img align="left" alt="Slinky" width="40px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> Slinky ([Click to try 🚀](https://slinky.ml/)) (v3.5.1)
+# <img align="left" alt="Slinky" width="200px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> ([Click to try 🚀](https://slinky.ml/)) (v2.4.7)
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
