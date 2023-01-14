@@ -50,17 +50,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Privacy focused web analytics
+### Let's go!
 <img align="center" alt="Slinky" width="3000px" src="https://github.com/linkspreed/Slinky/blob/main/screenshots/1.png" draggable="false" />
-
-### Analytics
 <img align="center" alt="Slinky" width="3000px" src="https://github.com/linkspreed/Slinky/blob/main/screenshots/2.png" draggable="false" />
-
-### Register now
 <img align="center" alt="Slinky" width="3000px" src="https://github.com/linkspreed/Slinky/blob/main/screenshots/3.png" draggable="false" />
-
-### Dashboard
-<img align="center" alt="Slinky" width="3000px" src="https://github.com/linkspreed/Slinky/blob/main/screenshots/4.png" draggable="false" />
-
-### Add a new website
-<img align="center" alt="Slinky" width="3000px" src="https://github.com/linkspreed/Slinky/blob/main/screenshots/5.png" draggable="false" />
