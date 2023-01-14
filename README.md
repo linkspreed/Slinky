@@ -1,7 +1,6 @@
-# <img align="left" alt="Slinky" width="200px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> ([Click to try 🚀](https://slinky.ml/)) (v2.4.7)
+# <img align="left" alt="Slinky" width="150px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> ([Click to try 🚀](https://slinky.ml/)) (v2.4.7)
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
-
+Slinky ☁️📧 - the fastest way to send large files via email or link! 📧☁️
 
 
 ## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
