@@ -14,40 +14,23 @@ Slinky ☁️📧 - the fastest way to send large files via email or link! 📧�
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
-
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
-
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
-
-**AND SO MUCH MORE ...**
+- Support for multiple files
+- Support for folders and folder structures
+- Support for multiple recipients
+- Drag & Drop support
+- File previews
+- Share files using email
+- Share files using a link
+- Automatic file destruction after a specified time or amount of downloads
+- Password protect an upload
+- File encryption
+- Chunked file uploads
+- Automatic upload resume on connection loss
+- Option to specify default upload recipients
+- User accounts
+- Require login for upload and/or download page
+- Fullscreen backgrounds (image / video)
+- **AND SO MUCH MORE ...**
 
 ## More
  
