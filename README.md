@@ -1,4 +1,4 @@
-# <img align="left" alt="Slinky" width="150px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> ([Click to try 🚀](https://slinky.ml/)) (v2.4.7)
+# <img align="left" alt="Slinky" width="150px" src="https://slinky.ml/assets/img/logo.png" draggable="false" /> ([Click to try 🚀](https://slinky.ml/)) (v2.4.8)
 
 Slinky ☁️📧 - the fastest way to send large files via email or link! 📧☁️
 
