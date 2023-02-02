@@ -1,4 +1,7 @@
 ### 02.02.2023 (announcement Slinky)
+- The servers are now ready for the launch of version 2.4.8 for **Slinky**.
+
+### 02.02.2023 (announcement Slinky)
 - The code is now ready for the launch of version 2.4.8 for **Slinky**.
 
 ### 02.02.2023  (announcement Slinky)
