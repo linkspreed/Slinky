@@ -1,3 +1,13 @@
+# V2.4.8 (02 February, 2023)
+- Added confirm delete upload page when file sender deletes upload
+- Added extra info to self-destruct option in admin panel
+- Added message to admin panel when using PHP 8.2 or higher
+- Fixed upload spamming by blocking the upload button until upload starts
+- Fixed error issues in log
+- Fixed missing assets errors
+- Fixed issue that caused htaccess to get removed from temp upload folder
+- Updated plugin list in admin panel
+
 # V2.4.7 (14 January, 2023)
 - Fixed issue that caused upload folders to stay on the webserver when external storage plugin was installed.
 - Fixed limit issue on admin user page
