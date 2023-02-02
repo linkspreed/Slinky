@@ -1,3 +1,6 @@
+### 02.02.2023  (announcement Slinky)
+-  **Slinky** gets a big update today - we are going to launch v2.4.8. 😍
+
 ### 14.01.2023 (announcement Slinky)
 - Feel free to read the entire changelog now! 🧑‍💻
 - https://github.com/linkspreed/Slinky/blob/main/changelog.md
