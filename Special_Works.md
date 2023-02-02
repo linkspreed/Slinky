@@ -1,4 +1,9 @@
 ### 02.02.2023 (announcement Slinky)
+- The launch of version 2.4.8 of **Slinky** was successful! 🥳
+- The new update is live now :)
+- https://slinky.ml 🔗
+
+### 02.02.2023 (announcement Slinky)
 - We are now starting the launch of v2.4.8.
 
 ### 02.02.2023 (announcement Slinky)
