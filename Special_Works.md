@@ -1,3 +1,6 @@
+### 20.02.2023 (announcement Slinky)
+- We're currently working on **Slinky**.
+
 ### 02.02.2023 (announcement Slinky)
 - https://github.com/linkspreed/Slinky/blob/main/changelog.md
 - The entire changelog is now available on Github.
