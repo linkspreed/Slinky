@@ -1,3 +1,6 @@
+### 27.06.2023 (announcement Slinky)
+- 🎊Great news! We’ve just added Slinky to our subdomain system! 🔗Slinky.ml now redirects to https://slinky.linkspreed.com, but don't worry, everything will work the same!🤝 Have you already tried out Slinky? Let us know! #subdomains #techupdate 🤖👨‍💻👩‍💻
+
 ### 20.02.2023 (announcement Slinky)
 - We're currently working on **Slinky**.
 
